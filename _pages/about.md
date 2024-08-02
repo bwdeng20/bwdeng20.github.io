@@ -76,12 +76,13 @@ TL;DR: Refine the graph structure with pseudo labels for graph convolution netwo
 
 # 💻 Internships
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2024</div><img src='images/qmf_recons.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research</div><img src='images/qmf_recons.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Efficient Graph Signal Sampling and Reconstruction](https://github.com/bwdeng20/thgsp)
 
 **Mentor**: Prof. [Antonio Ortega](https://viterbi.usc.edu/directory/faculty/Ortega/Antonio) (University of Southern California)
+
 **When and where**: *2021.07 - 2021.09*, remote
 
 - Developed a [PyTorch-based package](https://github.com/bwdeng20/thgsp/tree/main/thgsp/sampling) for graph signal sampling and reconstruction.
