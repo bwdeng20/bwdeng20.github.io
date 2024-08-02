@@ -59,7 +59,7 @@ TL;DR: We propose a novel graph contrastive learning framework based on Fused Gr
 
 [**Project**](https://github.com/bwdeng20/PROSPECT)
 
-TL;DR: We prove the robustness and heterophily adaptability of PROSPECT and further discuss its robustness against adaptive attacks.
+TL;DR: We prove the robustness and heterophily adaptability of Mutual GNN-MLP Distillation (MGMD) and further discuss its robustness against adaptive attacks.
 </div>
 </div>
 
