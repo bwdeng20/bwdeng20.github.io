@@ -28,11 +28,23 @@ I am always open for collaborations and if you are interested in my research fee
 
 # 🔥 News
 - *2024.08*: &nbsp; We propose a graph contrasive learning framework [THESAURUS](/papers/Thesaurus4AAAI2025-v04.pdf) for node clustering.
-- *2024.08*: &nbsp; A paper presenting theorems on the robustness and heterophily adaptability of PROSPECT has been submitted to a renowned journal.
+- *2024.08*: &nbsp; A [paper](/papers/prospect_full.pdf) presenting theorems on the robustness and heterophily adaptability of PROSPECT has been submitted to a renowned journal.
 - *2024.07*: &nbsp;🎉🎉 One full research paper is accepted by [CIKM 2024](https://cikm2024.org/). 
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/THESAURUS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[THESAURUS: Contrastive Graph Clustering by Swapping Fused Gromov-Wasserstein Couplings](/papers/Thesaurus4v04.pdf)
+
+**Bowen Deng**, Tong Wang, Lele Fu, Sheng Huang, Chuan Chen, and Tao Zhang.
+
+[**Project**](https://github.com/bwdeng20/THESAURUS)
+
+TL;DR: We propose a novel graph contrastive learning framework based on Fused Gromov-Wasserstein optimal transport on graphs.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2024</div><img src='images/PROSPECT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -55,6 +67,7 @@ TL;DR: Tackle heteropihly, robustness, and inference scalability challenges with
 **Bowen Deng**, Aimin Jiang
 
 [**Project**]()
+
 TL;DR: Refine the graph structure with pseudo labels for graph convolution networks.
 </div>
 </div>
