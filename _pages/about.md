@@ -29,7 +29,7 @@ I am always open for collaborations and if you are interested in my research fee
 # 🔥 News
 - *2024.08*: &nbsp; We propose a graph contrasive learning framework [THESAURUS](/papers/Thesaurus4v04.pdf) for node clustering.
 - *2024.08*: &nbsp; A [paper](/papers/mgmd.pdf) presenting theorems on the robustness and heterophily adaptability of PROSPECT has been submitted to a renowned journal.
-- *2024.07*: &nbsp;🎉🎉 One full research paper is accepted by [CIKM 2024](https://cikm2024.org/). 
+- *2024.07*: &nbsp;🎉🎉 One full research [paper](/papers/prospect-cikm24-sigconf.pdf) is accepted by [CIKM 2024](https://cikm2024.org/). 
 
 
 # 📝 Publications 
