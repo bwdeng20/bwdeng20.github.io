@@ -40,6 +40,8 @@ I am always open for collaborations and if you are interested in my research fee
 
 **Bowen Deng**, Tong Wang, Lele Fu, Sheng Huang, Chuan Chen, and Tao Zhang.
 
+*Under review*, 2024
+
 [**Project**](https://github.com/bwdeng20/THESAURUS)
 
 TL;DR: We propose a novel graph contrastive learning framework based on Fused Gromov-Wasserstein optimal transport on graphs.
@@ -52,6 +54,8 @@ TL;DR: We propose a novel graph contrastive learning framework based on Fused Gr
 [Mutual GNN-MLP Distillation for Robust Graph Adversarial Defense](/papers/mgmd.pdf)
 
 **Bowen Deng**, Jialong Chen, Yanming Hu, Chuan Chen, Tao Zhang
+
+*Under review*, 2024
 
 [**Project**](https://github.com/bwdeng20/PROSPECT)
 
@@ -66,6 +70,8 @@ TL;DR: We prove the robustness and heterophily adaptability of PROSPECT and furt
 
 **Bowen Deng**, Jialong Chen, Yanming Hu, Zhiyong Xu, Chuan Chen, Tao Zhang
 
+*Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM ’24)*, October 21–25, 2024, Boise, ID, USA.
+
 [**Project**](https://github.com/bwdeng20/PROSPECT)
 
 TL;DR: Tackle heteropihly, robustness, and inference scalability challenges with GNN-to-MLP knowledge distillation.
@@ -79,13 +85,15 @@ TL;DR: Tackle heteropihly, robustness, and inference scalability challenges with
 
 **Bowen Deng**, Aimin Jiang
 
+*IEEE 31st International Workshop on Machine Learning for Signal Processing (MLSP)*, Gold Coast, Australia, 2021.
+
 [**Project**]()
 
 TL;DR: Refine the graph structure with pseudo labels for graph convolution networks.
 </div>
 </div>
 
-- [Decoupling anomaly discrimination and representation learning: self-supervised learning for anomaly detection on attributed graph](https://link.springer.com/article/10.1007/s41019-024-00249-8), Yanming Hu, Chuan Chen, **Bowen Deng**, Yujing Lai, Hao Lin, Zibin Zheng, Jing Bian, Data Science and Engineering, 2024
+- [Decoupling anomaly discrimination and representation learning: self-supervised learning for anomaly detection on attributed graph](https://link.springer.com/article/10.1007/s41019-024-00249-8), Yanming Hu, Chuan Chen, **Bowen Deng**, Yujing Lai, Hao Lin, Zibin Zheng, Jing Bian, ***Data Science and Engineering***, 2024
 
 - [ADMM-Based TDOA Estimation](https://ieeexplore.ieee.org/document/8355251), Yanping Zhu , **Bowen Deng**, Aimin Jiang, Xiaofeng Liu, ***IEEE Communications Letters***, 2018
 
