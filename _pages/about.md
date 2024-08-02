@@ -42,12 +42,10 @@ I am always open for collaborations and if you are interested in my research fee
 **Bowen Deng**, Jialong Chen, Yanming Hu, Zhiyong Xu, Chuan Chen, Tao Zhang
 
 [**Project**](https://github.com/bwdeng20/PROSPECT)
-Bowen Deng, Jialong Chen, Yanming Hu, Zhiyong Xu, Chuan Chen, Tao Zhang
 
-Tackle heteropihly, robustness, and inference scalability challenges with GNN-to-MLP knowledge distillation.
+TL;DR: Tackle heteropihly, robustness, and inference scalability challenges with GNN-to-MLP knowledge distillation.
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLSP 2021</div><img src='images/dygcn-mlsp2021.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -57,13 +55,11 @@ Tackle heteropihly, robustness, and inference scalability challenges with GNN-to
 **Bowen Deng**, Aimin Jiang
 
 [**Project**]()
-Bowen Deng, Aimin Jiang
-
-Refine the graph structure for more graph convolution networks.
+TL;DR: Refine the graph structure with pseudo labels for graph convolution networks.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [ADMM-Based TDOA Estimation](https://ieeexplore.ieee.org/document/8355251), Yanping Zhu , Bowen Deng, Aimin Jiang, Xiaofeng Liu, **IEEE Communications Letters**, 2018
 
 # 🎖 Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
