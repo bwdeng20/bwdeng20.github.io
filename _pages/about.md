@@ -28,7 +28,7 @@ I am always open for collaborations and if you are interested in my research fee
 
 # 🔥 News
 - *2024.08*: &nbsp; We propose a graph contrasive learning framework [THESAURUS](/papers/Thesaurus4v04.pdf) for node clustering.
-- *2024.08*: &nbsp; A [paper](/papers/prospect_full.pdf) presenting theorems on the robustness and heterophily adaptability of PROSPECT has been submitted to a renowned journal.
+- *2024.08*: &nbsp; A [paper](/papers/mgmd.pdf) presenting theorems on the robustness and heterophily adaptability of PROSPECT has been submitted to a renowned journal.
 - *2024.07*: &nbsp;🎉🎉 One full research paper is accepted by [CIKM 2024](https://cikm2024.org/). 
 
 
@@ -43,6 +43,19 @@ I am always open for collaborations and if you are interested in my research fee
 [**Project**](https://github.com/bwdeng20/THESAURUS)
 
 TL;DR: We propose a novel graph contrastive learning framework based on Fused Gromov-Wasserstein optimal transport on graphs.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/MGMD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mutual GNN-MLP Distillation for Robust Graph Adversarial Defense](/papers/mgmd.pdf)
+
+**Bowen Deng**, Jialong Chen, Yanming Hu, Chuan Chen, Tao Zhang
+
+[**Project**](https://github.com/bwdeng20/PROSPECT)
+
+TL;DR: We prove the robustness and heterophily adaptability of PROSPECT and further discuss its robustness against adaptive attacks.
 </div>
 </div>
 
