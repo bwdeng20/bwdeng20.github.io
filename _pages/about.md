@@ -18,8 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a Ph.D student at Sun Yat-sen University. My research interest includes:
- - Open-world Graph Learning: unknown rejection, generalized catogroy discovery, etc.
- - Graph Contrasive Learning
+ - Open-world Graph Learning: unknown rejection, generalized category discovery, etc.
+ - Graph Contrastive Learning
  - Robust Graph Learning: adversarial robustness, anomaly detection, etc.
  - Graph Signal Processing: filter design, signal sampling, etc.
  - (Test-time) Domain Adaptation (on Graphs)
@@ -27,9 +27,9 @@ I am currently a Ph.D student at Sun Yat-sen University. My research interest in
 I am always open for collaborations and if you are interested in my research feel free to contact me via email.
 
 # 🔥 News
-- *2024.08*: &nbsp; We propose a graph contrasive learning framework [THESAURUS](/papers/Thesaurus4v04.pdf) for node clustering.
+- *2024.08*: &nbsp; We propose a graph contrastive learning framework [THESAURUS](/papers/Thesaurus4v04.pdf) for node clustering.
 - *2024.08*: &nbsp; A [paper](/papers/mgmd.pdf) presenting theorems on the robustness and heterophily adaptability of PROSPECT has been submitted to a renowned journal.
-- *2024.07*: &nbsp;🎉🎉 One full research [paper](/papers/prospect-cikm24-sigconf.pdf) is accepted by [CIKM 2024](https://cikm2024.org/). 
+- *2024.07*: &nbsp;🎉🎉 One full research [paper](/papers/prospect-cikm24-sigconf.pdf) is accepted by [CIKM 2024 (CCF B, Core A)](https://cikm2024.org/). 
 
 
 # 📝 Publications 
@@ -63,7 +63,7 @@ TL;DR: We prove the robustness and heterophily adaptability of Mutual GNN-MLP Di
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2024</div><img src='images/PROSPECT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2024 (CCF B, Core A)</div><img src='images/PROSPECT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PROSPECT: Learn MLPs on Graphs Robust against Adversarial Structure Attacks](/papers/prospect-cikm24-sigconf.pdf)
@@ -81,7 +81,9 @@ TL;DR: Tackle heteropihly, robustness, and inference scalability challenges with
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLSP 2021</div><img src='images/dygcn-mlsp2021.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Dynamic Graph Convolutional Network: A Topology Optimization Perspective](https://ieeexplore.ieee.org/document/9596206)
+[Dynamic Graph Convolutional Network: A Topology Optimization Perspective](/papers/mlsp_template_camera_ready.pdf)
+<!-- - [Dynamic Graph Convolutional Network: A Topology Optimization Perspective](https://ieeexplore.ieee.org/document/9596206)>
+-->
 
 **Bowen Deng**, Aimin Jiang
 
@@ -99,10 +101,11 @@ TL;DR: Refine the graph structure with pseudo labels for graph convolution netwo
 
 - [ADMM-Based TDOA Estimation](https://ieeexplore.ieee.org/document/8355251), Yanping Zhu , **Bowen Deng**, Aimin Jiang, Xiaofeng Liu, ***IEEE Communications Letters***, 2018
 
-<!-- -
+
 # 🎖 Honors and Awards
-*2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2019* First Prize Scholarship of Graduate Student, Hoahai University
+- *2017* Scholarship of Academic Excellence, Hohai University
+- *2016* Academic Progress Award, Hohai University
 
 # 📖 Educations
 - *2022.09 - present*, Ph.D, Sun Yat-sen University.
