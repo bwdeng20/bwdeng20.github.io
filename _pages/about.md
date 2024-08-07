@@ -99,10 +99,11 @@ TL;DR: Refine the graph structure with pseudo labels for graph convolution netwo
 
 - [ADMM-Based TDOA Estimation](https://ieeexplore.ieee.org/document/8355251), Yanping Zhu , **Bowen Deng**, Aimin Jiang, Xiaofeng Liu, ***IEEE Communications Letters***, 2018
 
-<!-- -
+
 # 🎖 Honors and Awards
-*2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2019* First Prize Scholarship of Graduate Student, Hoahai University
+- *2017* Scholarship of Academic Excellence, Hohai University
+- *2016* Academic Progress Award, Hohai University
 
 # 📖 Educations
 - *2022.09 - present*, Ph.D, Sun Yat-sen University.
