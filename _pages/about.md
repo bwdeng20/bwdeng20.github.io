@@ -107,7 +107,7 @@ TL;DR: Refine the graph structure with pseudo labels for graph convolution netwo
 # 📖 Educations
 - *2022.09 - present*, Ph.D, Sun Yat-sen University.
 - *2019.06 - 2022.06*, Master, Hohai University.
-- *2015.09 - 2019.06*, Undergraduate, Hohai University. (GPA: 4.58/5, Average: 87.74/100)
+- *2015.09 - 2019.06*, Undergraduate, Hohai University. (GPA: 4.58/5, Average: 87.74/100, Transcript [En](official_files/DengBowen-Transcript-BS-Eng.pdf)/[Zh](official_files/DengBowen-Transcript-BS-CN.pdf))
 
 <!-- -
 # 💬 Invited Talks
