@@ -91,7 +91,7 @@ TL;DR: Tackle heteropihly, robustness, and inference scalability challenges with
 
 [**Project**]()
 
-TL;DR: Refine the graph structure with pseudo labels for graph convolution networks.
+TL;DR: Refine the graph structure with pseudo labels with learnable edge scores.
 </div>
 </div>
 
@@ -103,14 +103,15 @@ TL;DR: Refine the graph structure with pseudo labels for graph convolution netwo
 
 
 # 🎖 Honors and Awards
+- *2024* First Prize Scholarship of Graduate Student, Sun Yat-sen University
 - *2019* First Prize Scholarship of Graduate Student, Hoahai University
 - *2017* Scholarship of Academic Excellence, Hohai University
 - *2016* Academic Progress Award, Hohai University
 
 # 📖 Educations
-- *2022.09 - present*, Ph.D, Sun Yat-sen University.
-- *2019.06 - 2022.06*, Master, Hohai University.
-- *2015.09 - 2019.06*, Undergraduate, Hohai University. (GPA: 4.58/5, Average: 87.74/100, Transcript [En](official_files/DengBowen-Transcript-BS-Eng.pdf)/[Zh](official_files/DengBowen-Transcript-BS-CN.pdf))
+- *2022.09 - present*, Ph.D, Sun Yat-sen University. (Average: 88.95/100)
+- *2019.06 - 2022.06*, Master, Hohai University (Postgraduate Recommendation). (Average: 83.67/100)
+- *2015.09 - 2019.06*, Undergraduate, Hohai University. (Average: 87.74/100, Transcript [En](official_files/DengBowen-Transcript-BS-Eng.pdf)/[Zh](official_files/DengBowen-Transcript-BS-CN.pdf))
 
 <!-- -
 # 💬 Invited Talks
