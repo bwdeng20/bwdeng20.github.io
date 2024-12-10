@@ -34,7 +34,7 @@ I am always open for collaborations and if you are interested in my research fee
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/THESAURUS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 (CCF A, Core A*)</div><img src='images/THESAURUS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [THESAURUS: Contrastive Graph Clustering by Swapping Fused Gromov-Wasserstein Couplings](/papers/Thesaurus.pdf)
