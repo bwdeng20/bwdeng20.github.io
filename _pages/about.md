@@ -27,20 +27,23 @@ I am currently a Ph.D student at Sun Yat-sen University. My research interest in
 I am always open for collaborations and if you are interested in my research feel free to contact me via email.
 
 # 🔥 News
+- *2024.12*: &nbsp; The graph contrastive learning framework [THESAURUS](/papers/Thesaurus.pdf) is accepted by [AAAI 2025 (CCF A, Core A*)](https://aaai.org/conference/aaai/aaai-25/).
 - *2024.08*: &nbsp; We propose a graph contrastive learning framework [THESAURUS](/papers/Thesaurus.pdf) for node clustering.
 - *2024.08*: &nbsp; A [paper](/papers/mgmd.pdf) presenting theorems on the robustness and heterophily adaptability of PROSPECT has been submitted to a renowned journal.
 - *2024.07*: &nbsp;🎉🎉 One full research [paper](/papers/prospect-cikm24-sigconf.pdf) is accepted by [CIKM 2024 (CCF B, Core A)](https://cikm2024.org/). 
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/THESAURUS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/THESAURUS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [THESAURUS: Contrastive Graph Clustering by Swapping Fused Gromov-Wasserstein Couplings](/papers/Thesaurus.pdf)
 
 **Bowen Deng**, Tong Wang, Lele Fu, Sheng Huang, Chuan Chen, and Tao Zhang.
 
-*Under review*, 2024
+*Proceedings of the AAAI Conference on Artificial Intelligence (AAAI ’25)*, February 25 – March 4, 2025, Philadelphia, Pennsylvania, USA.
+
+
 
 [**Project**](https://github.com/bwdeng20/THESAURUS)
 
