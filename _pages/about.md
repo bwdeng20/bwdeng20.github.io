@@ -27,6 +27,7 @@ I am currently a Ph.D student at Sun Yat-sen University. My research interest in
 I am always open for collaborations and if you are interested in my research feel free to contact me via email.
 
 # 🔥 News
+- *2024.12*: &nbsp; Invited to be a reviewer for ICML 2025.
 - *2024.12*: &nbsp;🎉🎉 The graph contrastive learning framework [THESAURUS](/papers/Thesaurus.pdf) is accepted by [AAAI 2025 (CCF A, Core A*)](https://aaai.org/conference/aaai/aaai-25/).
 - *2024.07*: &nbsp;🎉🎉 The mutual GNN-MLP distillation framework [PROSPECT](/papers/prospect-cikm24-sigconf.pdf) is accepted by [CIKM 2024 (CCF B, Core A)](https://cikm2024.org/). 
 
