@@ -28,7 +28,7 @@ I am always open for collaborations and if you are interested in my research fee
 
 # 🔥 News
 - *2024.12*: &nbsp; Invited to be a reviewer for ICML 2025.
-- *2024.12*: &nbsp;🎉🎉 The graph contrastive learning framework [THESAURUS](/papers/Thesaurus.pdf) is accepted by [AAAI 2025 (CCF A, Core A*)](https://aaai.org/conference/aaai/aaai-25/).
+- *2024.12*: &nbsp;🎉🎉 The graph contrastive learning framework [THESAURUS](https://arxiv.org/abs/2412.11550) is accepted by [AAAI 2025 (CCF A, Core A*)](https://aaai.org/conference/aaai/aaai-25/).
 - *2024.07*: &nbsp;🎉🎉 The mutual GNN-MLP distillation framework [PROSPECT](/papers/prospect-cikm24-sigconf.pdf) is accepted by [CIKM 2024 (CCF B, Core A)](https://cikm2024.org/). 
 
 
@@ -36,7 +36,7 @@ I am always open for collaborations and if you are interested in my research fee
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 (CCF A, Core A*)</div><img src='images/THESAURUS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[THESAURUS: Contrastive Graph Clustering by Swapping Fused Gromov-Wasserstein Couplings](/papers/Thesaurus.pdf)
+[THESAURUS: Contrastive Graph Clustering by Swapping Fused Gromov-Wasserstein Couplings](https://arxiv.org/abs/2412.11550) 
 
 **Bowen Deng**, Tong Wang, Lele Fu, Sheng Huang, Chuan Chen, and Tao Zhang.
 
