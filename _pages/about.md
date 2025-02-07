@@ -18,8 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a Ph.D student at Sun Yat-sen University. My research interest includes:
- - Open-world Graph Learning: unknown rejection, generalized category discovery, etc.
- - Graph Contrastive Learning
+ - Open-world Graph Learning: open-set recognition(OSR), generalized category discovery (GCD), etc.
+ - (Graph) Contrastive Learning
  - Robust Graph Learning: adversarial robustness, anomaly detection, etc.
  - Graph Signal Processing: filter design, signal sampling, etc.
  - (Test-time) Domain Adaptation (on Graphs)
@@ -34,6 +34,34 @@ I am always open for collaborations and if you are interested in my research fee
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review at ICML 2025 (CCF A, Core A*)</div><img src='images/GraphGCD_EmbeddingSpace.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Understanding Parametric Generalized Category Discovery on Graphs](https:TODO) 
+
+**Bowen Deng**, Lele Fu, Jialong Chen, Sheng Huang, Tianchi Liao, Tao Zhang, Chuan Chen.
+
+*Under review at ICML*, 2025
+
+[**Project**](https://github.com/bwdeng20/TODO)
+
+TL;DR: We provide the first rigorous theoretical answer to the core GCD question: "When and how do old classes help (parametric) generalized category discovery (on graphs)?"
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 (CCF A, Core A*)</div><img src='images/THESAURUS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
