@@ -27,6 +27,7 @@ I am currently a Ph.D student at Sun Yat-sen University. My research interest in
 I am always open for collaborations and if you are interested in my research feel free to contact me via email.
 
 # 🔥 News
+- *2025.01*: &nbsp; 🎉🎉 One paper is accepted by ICLR 2025.
 - *2024.12*: &nbsp; Invited to be a reviewer for ICML 2025.
 - *2024.12*: &nbsp;🎉🎉 The graph contrastive learning framework [THESAURUS](https://arxiv.org/abs/2412.11550) is accepted by [AAAI 2025 (CCF A, Core A*)](https://aaai.org/conference/aaai/aaai-25/).
 - *2024.07*: &nbsp;🎉🎉 The mutual GNN-MLP distillation framework [PROSPECT](/papers/prospect-cikm24-sigconf.pdf) is accepted by [CIKM 2024 (CCF B, Core A)](https://cikm2024.org/). 
@@ -97,6 +98,8 @@ TL;DR: Refine the graph structure with pseudo labels with learnable edge scores.
 </div>
 </div>
 
+- [Graph Neural Ricci Flow: Evolving Feature from a Curvature Perspective](https://openreview.net/forum?id=7b2JrzdLhA), Jialong Chen, **Bowen Deng**, Zhen WANG, Chuan Chen, Zibin Zheng, 2025
+- 
 - [******_for_Relieving_Distribution_Shift_on_Graphs](), Jialong Chen, **Bowen Deng**, Yuecheng Li, Chuan Chen, Zibing Zheng, ***Under review***, 2024
 
 - [Decoupling anomaly discrimination and representation learning: self-supervised learning for anomaly detection on attributed graph](https://link.springer.com/article/10.1007/s41019-024-00249-8), Yanming Hu, Chuan Chen, **Bowen Deng**, Yujing Lai, Hao Lin, Zibin Zheng, Jing Bian, ***Data Science and Engineering***, 2024
