@@ -17,15 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D student at Sun Yat-sen University. My research interest includes:
+I am currently a Ph.D. student at Sun Yat-sen University. My research interests include:
  - Open-world Graph Learning: open-set recognition(OSR), generalized category discovery (GCD), etc.
  - (Graph) Contrastive Learning
  - Robust Graph Learning: adversarial robustness, anomaly detection, etc.
  - Graph Signal Processing: filter design, signal sampling, etc.
  - (Test-time) Domain Adaptation (on Graphs)
 
-I am always open for collaborations and if you are interested in my research feel free to contact me via email.
-
+I am always open to collaborations, and if you are interested in my research, feel free to contact me via email.
 # 🔥 News
 - *2025.01*: &nbsp; 🎉🎉 One paper is accepted by ICLR 2025.
 - *2024.12*: &nbsp; Invited to be a reviewer for ICML 2025.
@@ -35,7 +34,7 @@ I am always open for collaborations and if you are interested in my research fee
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review at ICML 2025 (CCF A, Core A*)</div><img src='images/GraphGCD_EmbeddingSpace.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review at ICML 2025 (CCF A, Core A*)</div><img src='images/GraphGCD_EmbeddingSpace.png' alt="sym" width="20%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Understanding Parametric Generalized Category Discovery on Graphs](https:TODO) 

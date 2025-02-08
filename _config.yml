@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ph.D Candidate"
+title                    : "Bowen Deng (邓 薄文)"
 description              : "Less is More"
 repository               : "bwdeng20/bwdeng20.github.io"
 google_scholar_stats_use_cdn : true
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Bowen Deng \n(邓 薄文)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D student at SYSU"
+  bio              : "Ph.D. student at SYSU"
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 
