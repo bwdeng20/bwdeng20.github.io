@@ -34,7 +34,7 @@ I am always open to collaborations, and if you are interested in my research, fe
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review at ICML 2025 (CCF A, Core A*)</div><img src='images/GraphGCD_EmbeddingSpace.png' alt="sym" width="20%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review at ICML 2025 (CCF A, Core A*)</div><img src='images/GraphGCD_EmbeddingSpace.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Understanding Parametric Generalized Category Discovery on Graphs](https:TODO) 
@@ -48,9 +48,6 @@ I am always open to collaborations, and if you are interested in my research, fe
 TL;DR: We provide the first rigorous theoretical answer to the core GCD question: "When and how do old classes help (parametric) generalized category discovery (on graphs)?"
 </div>
 </div>
-
-
-
 
 
 
