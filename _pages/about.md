@@ -55,13 +55,6 @@ TL;DR: We provide the first rigorous theoretical answer to the core GCD question
 
 
 
-
-
-
-
-
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 (CCF A, Core A*)</div><img src='images/THESAURUS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
