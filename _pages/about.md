@@ -115,8 +115,8 @@ TL;DR: Refine the graph structure with pseudo labels with learnable edge scores.
 </div>
 </div>
 
-- [Graph Neural Ricci Flow: Evolving Feature from a Curvature Perspective](https://openreview.net/forum?id=7b2JrzdLhA), Jialong Chen, **Bowen Deng**, Zhen WANG, Chuan Chen, Zibin Zheng, 2025
-- 
+- [Graph Neural Ricci Flow: Evolving Feature from a Curvature Perspective](https://openreview.net/forum?id=7b2JrzdLhA), Jialong Chen, **Bowen Deng**, Zhen WANG, Chuan Chen, Zibin Zheng, ***ICLR 2025***, 2025
+  
 - [******_for_Relieving_Distribution_Shift_on_Graphs](), Jialong Chen, **Bowen Deng**, Yuecheng Li, Chuan Chen, Zibing Zheng, ***Under review***, 2024
 
 - [Decoupling anomaly discrimination and representation learning: self-supervised learning for anomaly detection on attributed graph](https://link.springer.com/article/10.1007/s41019-024-00249-8), Yanming Hu, Chuan Chen, **Bowen Deng**, Yujing Lai, Hao Lin, Zibin Zheng, Jing Bian, ***Data Science and Engineering***, 2024
