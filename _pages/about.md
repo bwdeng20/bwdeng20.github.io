@@ -68,7 +68,7 @@ TL;DR: We propose a novel graph contrastive learning framework based on Fused Gr
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/mgmd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/MGMD-Illustration.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mutual GNN-MLP Distillation for Robust Graph Adversarial Defense](/papers/mgmd.pdf)
