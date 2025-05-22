@@ -43,7 +43,6 @@ I am always open to collaborations, and if you are interested in my research, fe
 
 **Bowen Deng**, Lele Fu, Jialong Chen, Sheng Huang, Tianchi Liao, Tao Zhang, Chuan Chen.
 
-Bowen Deng, Lele Fu, Jialong Chen, Sheng Huang, Tianchi Liao, Tao Zhang, Chuan Chen.
 
 *Proceedings of the 42nd International Conference on Machine Learning (ICML)* , 2025. 
 
@@ -119,7 +118,7 @@ TL;DR: Refine the graph structure with pseudo labels with learnable edge scores.
 </div>
 </div>
 
-- [Less is More: Federated Graph Learning with Alleviating Topology Heterogeneity from A Causal Perspective](), Lele Fu *, **Bowen Deng** *, Sheng Huang, Tianchi Liao, Shirui Pan, Chuan Chen, ***ICML 2025***
+- [Less is More: Federated Graph Learning with Alleviating Topology Heterogeneity from A Causal Perspective](), Lele Fu, **Bowen Deng** , Sheng Huang, Tianchi Liao, Shirui Pan, Chuan Chen, ***ICML 2025***
 
 - [Graph Neural Ricci Flow: Evolving Feature from a Curvature Perspective](https://openreview.net/forum?id=7b2JrzdLhA), Jialong Chen, **Bowen Deng**, Zhen WANG, Chuan Chen, Zibin Zheng, ***ICLR 2025***
   
