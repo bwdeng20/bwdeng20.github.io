@@ -18,14 +18,16 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a Ph.D. student at Sun Yat-sen University. My research interests include:
+ - Reinforcement learning for LLM agents.
  - Open-world Graph Learning: open-set recognition(OSR), generalized category discovery (GCD), etc.
  - (Graph) Contrastive Learning
  - Robust Graph Learning: adversarial robustness, anomaly detection, etc.
- - Graph Signal Processing: filter design, signal sampling, etc.
- - (Test-time) Domain Adaptation (on Graphs)
+
 
 I am always open to collaborations, and if you are interested in my research, feel free to contact me via email.
 # 🔥 News
+- *2025.05*: &nbsp; 🎉🎉 Two papers are accepted by ICML 2025.
+
 - *2025.01*: &nbsp; 🎉🎉 One paper is accepted by ICLR 2025.
 - *2024.12*: &nbsp; Invited to be a reviewer for ICML 2025.
 - *2024.12*: &nbsp;🎉🎉 The graph contrastive learning framework [THESAURUS](https://arxiv.org/abs/2412.11550) is accepted by [AAAI 2025 (CCF A, Core A*)](https://aaai.org/conference/aaai/aaai-25/).
@@ -34,14 +36,16 @@ I am always open to collaborations, and if you are interested in my research, fe
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review at ICML 2025 (CCF A, Core A*)</div><img src='images/GraphGCD_EmbeddingSpace.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 (CCF A, Core A*)</div><img src='images/GraphGCD_EmbeddingSpace.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Understanding Parametric Generalized Category Discovery on Graphs](https:TODO) 
 
 **Bowen Deng**, Lele Fu, Jialong Chen, Sheng Huang, Tianchi Liao, Tao Zhang, Chuan Chen.
 
-*Under review at ICML*, 2025
+Bowen Deng, Lele Fu, Jialong Chen, Sheng Huang, Tianchi Liao, Tao Zhang, Chuan Chen.
+
+*Proceedings of the 42nd International Conference on Machine Learning (ICML)* , 2025. 
 
 [**Project**](https://github.com/bwdeng20/TODO)
 
@@ -75,7 +79,7 @@ TL;DR: We propose a novel graph contrastive learning framework based on Fused Gr
 
 **Bowen Deng**, Jialong Chen, Yanming Hu, Chuan Chen, Tao Zhang
 
-*Under review*, 2024
+*Neural Networks* (CCF-B), 2024
 
 [**Project**](https://github.com/bwdeng20/PROSPECT)
 
@@ -115,20 +119,21 @@ TL;DR: Refine the graph structure with pseudo labels with learnable edge scores.
 </div>
 </div>
 
-- [Graph Neural Ricci Flow: Evolving Feature from a Curvature Perspective](https://openreview.net/forum?id=7b2JrzdLhA), Jialong Chen, **Bowen Deng**, Zhen WANG, Chuan Chen, Zibin Zheng, ***ICLR 2025***, 2025
+- [Less is More: Federated Graph Learning with Alleviating Topology Heterogeneity from A Causal Perspective](), Lele Fu *, **Bowen Deng** *, Sheng Huang, Tianchi Liao, Shirui Pan, Chuan Chen, ***ICML 2025***
+
+- [Graph Neural Ricci Flow: Evolving Feature from a Curvature Perspective](https://openreview.net/forum?id=7b2JrzdLhA), Jialong Chen, **Bowen Deng**, Zhen WANG, Chuan Chen, Zibin Zheng, ***ICLR 2025***
   
-- [******_for_Relieving_Distribution_Shift_on_Graphs](), Jialong Chen, **Bowen Deng**, Yuecheng Li, Chuan Chen, Zibing Zheng, ***Under review***, 2024
 
 - [Decoupling anomaly discrimination and representation learning: self-supervised learning for anomaly detection on attributed graph](https://link.springer.com/article/10.1007/s41019-024-00249-8), Yanming Hu, Chuan Chen, **Bowen Deng**, Yujing Lai, Hao Lin, Zibin Zheng, Jing Bian, ***Data Science and Engineering***, 2024
 
 - [ADMM-Based TDOA Estimation](https://ieeexplore.ieee.org/document/8355251), Yanping Zhu , **Bowen Deng**, Aimin Jiang, Xiaofeng Liu, ***IEEE Communications Letters***, 2018
 
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - *2024* First Prize Scholarship of Graduate Student, Sun Yat-sen University
 - *2019* First Prize Scholarship of Graduate Student, Hoahai University
 - *2017* Scholarship of Academic Excellence, Hohai University
-- *2016* Academic Progress Award, Hohai University
+- *2016* Academic Progress Award, Hohai University -->
 
 # 📖 Educations
 - *2022.09 - present*, Ph.D, Sun Yat-sen University. (Average: 88.95/100)
