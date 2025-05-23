@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a Ph.D. student at Sun Yat-sen University. My research interests include:
+ - (Reinforcement learning for) LLM, LLM RAG.
  - Reinforcement learning for LLM agents.
  - Open-world Graph Learning: open-set recognition(OSR), generalized category discovery (GCD), etc.
  - (Graph) Contrastive Learning
